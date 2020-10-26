@@ -1,0 +1,11 @@
+{
+  "id": "com.naver.serieson.f8ecdaa3",
+  "version": "0.0.1",
+  "vendor": "naver webtoonscorp",
+  "type": "web",
+  "main": "index.html",
+  "title": "serieson TV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "disableBackHistoryAPI": true
+}

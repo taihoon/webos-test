@@ -1,0 +1,17 @@
+{
+  "name": "webos-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "launch": "node launch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shelljs": "^0.8.4",
+    "signale": "^1.4.0"
+  }
+}
